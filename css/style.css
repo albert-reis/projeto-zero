@@ -1,11 +1,11 @@
-.background-login {
-	background-image: url('../imgs/img2.jpg');
+.background {
+	background-image: url('../imgs/img3.jpg');
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
 
 .login	{
-	background: rgb(87, 75, 68); background: linear-gradient(90deg, rgb(238, 126, 126) 0%, rgb(123, 124, 231) 100%);
+	background: rgb(87, 75, 68); background: linear-gradient(90deg, rgb(238, 126, 126) 0%, rgb(106, 107, 201) 100%);
 	border-radius: 10px;
 	position: absolute;
 	padding-top: 50px;
@@ -20,6 +20,31 @@
 .login-font	{
 	font-weight:bolder;
 	color: white;
+}
+
+nav {
+	background-color: black;
+}
+
+.btn-nav  {
+	background-color: rgb(248, 125, 77);
+	margin: 2px;
+}
+.btn-nav-principal	{
+	margin: 2px;
+}
+
+.bottom-div{
+	background-color: black;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+
+.login-text	{
+	font-family: monospace;
+	margin: 10px;
+	color: rgb(74, 174, 241);
 }
 
 #particles-js{ 
