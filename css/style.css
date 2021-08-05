@@ -22,6 +22,12 @@
 	color: white;
 }
 
+.title-nav	{
+	font-size: 35px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: rgb(232, 55, 19);
+}
+
 .btn	{
 	margin-left: 4px;
 }
