@@ -1,5 +1,5 @@
 .background {
-	background-image: url('../imgs/img3.jpg');
+	background-image: url('../imgs/img4.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -22,8 +22,13 @@
 	color: white;
 }
 
+.logo	{
+	width: 50px;
+	height: 50px;
+}
 nav	{
-	background-color: rgba(0, 0, 0, 0.24);
+	padding-bottom: -100px;
+	background-color: rgba(0, 0, 0, 0.623);
 }
 .btn-nav  {
 	color: white;
